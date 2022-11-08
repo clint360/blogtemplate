@@ -1,0 +1,205 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#intro{
+  text-align: center;
+  line-height: 35px;
+  background-color: rgb(231, 231, 231);
+  padding-bottom: 30px;
+}
+
+.logo{
+  font-weight: bold;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+#alldivs{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(231, 231, 231);
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+  margin-left: -25px;
+}
+
+.column1{
+  flex-basis: 62%;
+}
+
+.column2{
+  flex-basis: 30%;
+}
+
+.woods{
+  width: 100%;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px;
+}
+
+.write{
+  width: 95%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.th{
+  font-weight: bold;
+}
+
+.date{
+  color: grey;
+}
+
+.bottom{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn{
+  flex-basis: 48%;
+  text-align: left;
+}
+
+.btn button{
+  color: grey;
+  background: white;
+  padding: 5px 5px 5px 5px;
+  border: 1px solid rgb(221, 221, 221);
+}
+
+.btn button:hover{
+  background: rgb(221, 221, 221);
+}
+
+.cmt{
+  flex-basis: 48%;
+  text-align: right;
+}
+
+.cm{
+  background: black;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+}
+
+.bridge{
+  width: 100%;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px;
+}
+
+.avatar{
+  width: 100%;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px;
+}
+
+.popularposts{
+  width: 100%;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: auto;
+  margin: 20px;
+}
+
+.bar1{
+  width: 100%;
+  background: rgb(219, 219, 219);
+}
+
+.h{
+  font-size: 18px;
+  padding-left: 10px;
+  line-height: 40px;
+}
+
+.posts{
+  display: flex;
+  height: 40px;
+}
+
+.post1{
+  margin: 20px;
+}
+
+.Tags{    
+  width: 100%;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: auto;
+  margin: 20px;
+}
+
+.taglist{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tags{
+  margin: 5px;
+  background: rgb(221, 221, 221);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.tags:hover{
+  color: white;
+  background: black;
+}
+
+@media (max-width: 50em) {
+    #alldivs{
+      display: flex;
+      flex-direction: column;
+      background-color: rgb(231, 231, 231);
+      justify-content: space-evenly;
+      padding-bottom: 30px;    
+    }
+
+    .woods, .avatar, .bridge, .popularposts, .Tags{
+      width: 92%;
+      margin-left: 6%;
+    }
+}
+
+#footer{
+  padding-top: 10px;
+  height: 150px;
+  background: rgb(97, 97, 97);
+  color: white;
+}
+
+.navigator{
+  background: rgb(48, 48, 48);
+  padding: 10px;
+  border: none;
+  font-weight: bold;
+  width: 80px;
+  color: rgb(97, 97, 97);
+}
+
+.navigator:hover{
+  background: grey;
+  color: black;
+}
+
+.fcon{
+  margin: 15px;
+}
+
+.post1 .fnm{
+  margin-top: -15px;
+}
+
+.hl{
+  color: white;
+  background: black;
+}
