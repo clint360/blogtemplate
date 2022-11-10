@@ -51,7 +51,6 @@ body {
 
 .left-top-section {
   width: 62vw;
-  margin-bottom: 50px;
   margin: auto;
 }
 
@@ -232,7 +231,7 @@ body {
     overflow-x: hidden;
   }
 
-  .containers{
+  .containers {
     width: 94%;
   }
 
