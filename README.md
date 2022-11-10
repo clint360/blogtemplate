@@ -15,21 +15,18 @@ has two sections, right sections presenting the speaker and the left section pre
 ### Prerequisites
 
 Knowledge about:
-
-- HTML
-- CSS
-- Google chrome
+Your desired browser.
   
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `https://github.com/kngcl/block` using your terminal.
+- Clone this repository with `https://github.com/clint360/blogtemplate.git` using your terminal.
 - Change to the project directory by entering: cd block in the terminal.
 
 ## steps
 
-- $ git clone `https://github.com/kngcl/block`
-- $ `cd block`
+- $ git clone `https://github.com/clint360/blogtemplate`
+- $ `cd blogtemplate`
 - $ `git checkout feature/footer`
 
 ## Start App
@@ -38,9 +35,9 @@ Knowledge about:
 
 ## Author
 
-👤 **kngcl**
+👤 **clint360**
 
-- GitHub: [@kngcl](https://github.com/kngcl/block)
+- GitHub: [@clint360](https://github.com/clint360)
 
 ## 📝 License
 
