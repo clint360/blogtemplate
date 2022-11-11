@@ -14,9 +14,9 @@ has two sections, right sections presenting the speaker and the left section pre
 
 ### Prerequisites
 
-Knowledge about:
-Your desired browser.
-  
+Google Chrome
+HTML 
+CSS
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
@@ -27,7 +27,7 @@ Your desired browser.
 
 - $ git clone `https://github.com/clint360/blogtemplate`
 - $ `cd blogtemplate`
-- $ `git checkout feature/footer`
+- $ `git checkout feature/fullpage`
 
 ## Start App
 
