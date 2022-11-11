@@ -13,7 +13,7 @@ has two sections, right sections presenting the speaker and the left section pre
 - CSS
 
 ### Prerequisites
-
+Knowlege required on;
 Google Chrome
 HTML 
 CSS
