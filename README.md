@@ -1,8 +1,9 @@
 # BLOG TEMPLATE
 
+## About
+
 Talks about the personality and observation of someone about a place in particular.
 has two sections, right sections presenting the speaker and the left section presenting places
-
 ## App
 
 ![Block](assets/images/block.png)
@@ -13,10 +14,10 @@ has two sections, right sections presenting the speaker and the left section pre
 - CSS
 
 ### Prerequisites
-Knowlege required on;
-Google Chrome
-HTML 
-CSS
+
+Knowledge about:
+Your desired browser.
+  
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
@@ -26,7 +27,7 @@ CSS
 ## steps
 
 - $ git clone `https://github.com/clint360/blogtemplate`
-- $ `cd blogtemplate`
+- $ `blogtemplate`
 - $ `git checkout feature/fullpage`
 
 ## Start App
